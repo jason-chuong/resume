@@ -1,0 +1,210 @@
+{
+    "meta": {
+      "theme": "elegant"
+    },
+    "basics": {
+      "name": "Jason Chuong",
+      "label": "Data / DevOps/ Cloud Engineer",
+      "image": "https://media.licdn.com/dms/image/C4E03AQHigsvdei9Vgg/profile-displayphoto-shrink_800_800/0/1631849623108?e=2147483647&v=beta&t=5f-DN5XWSt8Ov_WWy0afeP51m-99yw89Si9D9HstZoM",
+      "summary": "Experienced professional with 20+ years of hands-on expertise in complex cloud infrastructure implementation and maintenance. Demonstrated ability to work collaboratively with teams to develop innovative technologies under tight time constraints, while maintaining excellent judgment in fast-paced environments. ",
+      "website": "https://www.linkedin.com/in/jason-chuong-a517631",
+      "email": "jason.chuong@gmail.com",
+      "location": {
+        "city": "Walnut Creek",
+        "countryCode": "CA"
+      },
+      "profiles": [
+        {
+          "url": "https://github.com/jason-chuong",
+          "username": "jason.chuong",
+          "network": "github"
+        }
+      ]
+    },
+    "education": [
+      {
+        "startDate": "1993-09-01",
+        "endDate": "1998-05-01",
+        "area": "Computer Information System",
+        "studyType": "Bachelors",
+        "institution": "Bentley University"
+      }
+    ],
+    "certifications":[
+      {
+        "title": "Google Cloud Certified Professional Cloud Architect",
+        "issued": "2021-01-01"
+      },
+      { 
+        "title": "MongoDB for DBAs",
+        "issued": "2013-02-01"
+      },
+      {
+        "title": "MongoDB for Developers",
+        "issued": "2013-02-01"
+      },
+      {
+        "title": "Certified MySQL 5.0 Database Administrator",
+        "issued": "2009-03-01"
+      },
+      {
+        "title": "Certified MySQL 5.1 Database Administrator",
+        "issued": "2009-03-01"
+      },
+      {
+        "title": "Certified MySQL 5.1 Cluster Administrator",
+        "issued": "2009-04-01"
+      },
+      {
+        "title": "Certified MySQL 5.0 Developer",
+        "issued": "2009-04-01"
+      }
+
+    ],
+    "references": [
+      {
+        "reference": "I worked with Jason for 9 years at CNET/CBS Interactive with several years on the same team. Jason is a solid, versatile and inventive senior engineer with deep systems knowledge on Linux and Windows and strong data architecture skills on MySQL, SQL Server and NoSQL. A great team player, he was always ready to help, and with his hands-on attitude and ability to keep up-to-date with both new and in-use technologies, he was often our go-to person for systems and database questions. If I ever start a company, Jason would be my first call as the 'data guy'.",
+        "name": "Tushar Pradhan, Principal Software Engineer, Localytics"
+      },
+      {
+        "reference": "Jason is an excellent technology partner, collaborator and team member. I had the pleasure of working with Jason regularly at CBS Interactive across numerous sites and projects. Jason is extremely proactive, knowledgable and constantly improving his skills and staying on top of the latest advances and trends, particularly around data management and systems engineering.",
+        "name": "Chris McCooey, Principal Consultant"
+      },
+      {
+        "reference": "I worked with Jason on a variety of projects over a period of 6 years. It was the best part of my CBS career, as it was exciting to work with a strong team. Jason showed a keen sense of originality, communication and knowledge of databases. He was often ready to take up interesting challenges, and come up with innovative approaches to solve them from the perspective of performance, scalability, reliability and ease of use. Jason is very versatile, hands-on and knows a variety of different scripting and programming languages, and sql too. Most of all he is very strong in Mysql and other open source technologies. When Nosql hit the street, I saw Jason was one of the first people in my organization to pick it up. He showed great foresight and keenness in delivering the technical skills needed to solve the problem right when it needs to be solved. I also observed over the years, that he has grown his network of technical expertise by cross-collaborating with a variety of different teams. He is a confident and strong data modeling expert, who has the expertise to deal with a diverse variety of data. If I have the chance, I would love to work with him.",
+        "name": "Manoj Joshi, Vice President of Software Engineer"
+      }
+    ],
+    "skills": [
+      {
+        "keywords": ["MySQL", "MongoDB", "ElasticSearch", "Solr", "FireStore", "BigQuery","DataStream", "Dataflow", "Cloud Function", "Lambda", "GCS", "S3"],
+        "level": "Principle",
+        "name": "Data"
+      },
+      {
+        "keywords": ["GCP", "AWS", "Terraform", "Kubernete", "Docker Swarm", "IAM", "VPC", "StackDriver", "CloudWatch", "Packer"],
+        "level": "Lead",
+        "name": "Cloud"
+      },
+      {
+        "keywords": ["Kubernete", "Docker Swarm", "Helm", "Jenkins", "CI/CD", "ELK", "Prometheus","AlertManger","Grafana", "Akamai", "Python", "PHP", "Shell"],
+        "level": "Lead",
+        "name": "Devops"
+      }
+    ],
+    
+    "work": [
+      {
+        "summary": "Managing and providing support for multiple data platforms in a dynamic environment with appropriate planning and implementation strategies such as establishing standardized processes, automating tasks wherever possible, and continuously monitoring and optimizing performance.",
+        "name": "RedVentures Inc.",
+        "website": "https://www.redventures.com",
+        "position": "Principle Data & Lead DevOps Engineer",
+        "startDate": "2021-01-01",
+        "endDate": "2023-03-15",
+        "highlights": [
+          "Create an event-driven pipeline for Solr Search ingestion, utilizing Google PubSub and CloudFunction to facilitate the data flow",
+          "Implement Google Datastream to provide a real-time dataset that satisfies specific business needs, and integrate it with BigQuery and Data Studio for analysis purposes",
+          "Migrate to Google CloudSQL to lower maintenance costs and simplify tasks such as provisioning, backups, and ensuring high availability and disaster recovery",
+          "Provide ongoing maintenance and support for the data platforms (MySQL, MongoDB, Solr, ElasticSearch, Cassandra, FireStore) utilized by over 8 websites",
+          "Assisted in providing Transition Services Agreement (TSA) support to facilitate a seamless transition of the sold division to the buyer",
+          "Worked closely with the BI teams to migrate Airflow and the DAG to Google Cloud Compose",
+          "Collaborated with CMS team on improve and redesign of an event-driven cms based on Google Cloud Services",
+          "Worked alongside developers to facilitate the migration and deployment of their Docker Swarm service onto Kubernetes stacks using Jenkins and Helms"
+          
+        ]
+      },
+      {
+        "summary": "As a lead engineer for cloud migration, my role involves supervising the planning and execution of the IT infrastructure and application migration from colocation to Google Cloud. I collaborate closely with stakeholders throughout the organization to ensure a seamless and timely migration process that aligns with the established budgetary and timeline goals",
+        "name": "ViacomCBS",
+        "website": "https://www.viacomcbs.com/",
+        "position": "Principle Data / Lead Cloud Migration Engineer",
+        "startDate": "2019-08-13",
+        "endDate": "2020-12-31",
+        "highlights": [
+          "Automate the deployment of GCP infrastructure and resources through the use of Terraform and Jenkins",
+          "Implement metrics and log forwarding to ELK and Prometheus to ensure comprehensive monitoring and alerting",
+          "Supports multiple engineering teams in their adoption of Google Cloud infrastructure technologies",
+          "Provide ongoing maintenance and support for the data platforms (MySQL, MongoDB, Solr, ElasticSearch) utilized by over 12 websites",
+          "Use the Cost Analysis tool in Google Cloud to create custom reports based on the defined tags",
+          "Develop a tailored Packer image to ensure a quick and reliable deployment of the data platform with enhanced portability, stability, and testability",
+          "Wrote runbooks and troubleshooting guides that were published in Confluence",
+          "Deliver training to internal teams on the best practices for containerizing, orchestrating, and deploying the application through CI/CD processes to Docker Swarm"
+        ]
+      },
+      {
+        "summary": "",
+        "name": "CBS Interactives",
+        "website": "https://www.cbsinteractive.com/",
+        "position": "Principle Data Engineer",
+        "startDate": "2008-05-15",
+        "endDate": "2019-08-14",
+        "highlights": [
+          "Provide ongoing maintenance and support for the data platforms (MySQL, MongoDB, Solr, ElasticSearch) utilized by over 8 websites",
+          "Monitored servers and implemented automated scripts for hardware and software failures",
+          "Established an immutable infrastructure with scalable resources",
+          "Worked in collaboration with the backend engineering team to develop a MongoDB-powered NoSQL API service",
+          "Collaborated with a small team to implement and build a Hadoop cluster for real-time anonymous tracking",
+          "Set up a pipeline for text-to-speech conversion that utilizes the Google Text to Speech API to transform written articles into audio files",
+          "Oversee the backup and recovery procedures utilizing a NAS system"
+        ]
+      },
+      {
+        "summary": "",
+        "name": "CNET Networks Inc.",
+        "website": "https://www.cnet.com/",
+        "position": "Senior Database Engineer / Linux System Administrator",
+        "startDate": "2002-07-01",
+        "endDate": "2008-05-14",
+        "highlights": [
+          "Responsible for designing, developing, and deploying a Linux-based web server that runs Apache, MySQL, and PHP in a production environment",
+          "managed and scaled-out more than 50 MySQL databases using various techniques such as master/slave and master/master replication",
+          "Built a multi-blog platform based on Wordpress and ensured its seamless performance by scaling publishing systems using memcache and Akamai CDN",
+          "Established a monitoring and alerting solution using Nagios and Cacti to detect and resolve issues proactively",
+          "Documented network and system processes to ensure compliance with Sarbanes-Oxley regulations"
+        ]
+      },
+      {
+        "summary": "",
+        "name": "NewMediary Inc.",
+        "website": "https://www.newmediary.com/",
+        "position": "Network Engineer",
+        "startDate": "2000-09-01",
+        "endDate": "2002-07-01",
+        "highlights": [
+          "Implemented Alteon (Nortel) Web Switches to ensure efficient load balancing and fail-over for critical network traffic.",
+          "Utilized Nokia Firewall, Checkpoint Software, and Snort IDS to closely monitor and analyze network traffic, thereby enhancing network security",
+          "Configured Microsoft Exchange Server 2000 along with Sendmail SMTP gateway to effectively filter out spam and viruses, ensuring a secure email environment",
+          "Migrated the production network to different colocation facilities, ensuring minimal downtime and seamless continuity of operations."
+        ]
+      },
+      {
+        "summary": "",
+        "name": "First Consultant Group",
+        "website": "https://www.fcg.com/",
+        "position": "Senior Consultant",
+        "startDate": "1999-07-01",
+        "endDate": "2000-08-01",
+        "highlights": [
+          "Upgraded and replaced the existing Cisco 3640 routers and Catalyst 5500 switches, deploying EIGRP protocol on the router and Spanning-tree protocol on the switches",
+          "Redesigned and migrated the IPX/Novell-based network to a TCP/IP core networking service using Windows NT, DHCP, WINS, and DNS, ensuring a more modern and efficient network infrastructure",
+          "Provided assistance in the implementation of Firewall-1 software from Checkpoint and Nokia 440 appliance, creating a secure access-controlled environment",
+          "Managed external contractors to upgrade CAT-5 cable and pull redundant fiber to network closets across the hospital, ensuring a robust and resilient network infrastructure"
+        ]
+      }
+      
+    ],
+    "interests": [
+      {
+        "name": "Open Source"
+      },
+      {
+        "name": "Cooking"
+      },
+      {
+        "name": "Sports"
+      },
+      {
+        "name": "OneWheel"
+      }
+    ]
+  }
